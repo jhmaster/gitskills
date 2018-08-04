@@ -1,4 +1,4 @@
 # gitskills
 
-coder b coding.
+coder c coding.
 
